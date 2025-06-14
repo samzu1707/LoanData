@@ -50,7 +50,7 @@
 📂 loan-data-project/
 │
 ├── LoanData.csv                 # Raw dataset
-├── LoanData_OOP_Complete.ipynb  # Main notebook with full OOP structure
+├── LoanData.ipynb  # Main notebook with full OOP structure
 ├── README.md                    # GitHub documentation (this file)
 ```
 
@@ -67,7 +67,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### 🚀 Run Instructions
 
 1. Upload the `LoanData.csv` file
-2. Open `LoanData_OOP_Complete.ipynb`
+2. Open `LoanData.ipynb`
 3. Run all cells in order
 
 ---
